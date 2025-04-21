@@ -1,6 +1,6 @@
 # Hello world
 
-> Be Good.
+> Be Good
 
 ```mermaid
 graph TD;
